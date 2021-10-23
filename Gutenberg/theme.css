@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+
+
+/*Theme paragraphs with CSS*/
+p{
+	font:italic bold 17px/30px Georgia,serif;
+	text-align: left;
+	text-indent: 3em;
+}
+
+
+/*Theme header tags with CSS*/
+h1,h2,h3,h4,h5{
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Italianno', cursive;
+    font-size: 200%;
+
+}
+
+
+/*Theme images and images captions with CSS*/
+img{
+	display: block;
+    /*border-radius: 2px;*/
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*Change the colour scheme to something aesthetically pleasing*/
+body{
+	/* image from https://medialoot.com/blog/32-crinkly-paper-textures-for-photoshop*/
+	background-image: url("images.jpg");
+	text-align: justify;
+}
+a:link {
+    color:blue;
+}
+
+a:visited{
+    color: black;
+}
+a:hover {
+    color: red;
+}

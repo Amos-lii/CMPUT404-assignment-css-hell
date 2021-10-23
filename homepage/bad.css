@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+
+.Name{
+    font-size: 300%;
+    text-align: center;
+    background-color: red;
+    color: white;
+    padding-top: 1em;
+    padding-bottom: 1.5em;
+}
+
+body{
+    font-family: 'IM Fell English SC', serif;
+    background-image: url("ugly.jpg");
+    text-align: center;
+
+}
+
+h1,h2{
+    margin-left: 25%;
+    margin-right: 25%;
+    font-weight: bolder;
+    font-size: 200%;
+    flood-color: #101880;
+    color: yellow;
+
+}
+
+h3{
+    margin-left: 25%;
+    margin-right: 25%;
+    font-weight: bolder;
+    font-size: 100%;
+    flood-color: #101880;
+    color: yellow;
+}
+
+div.a,div.b,div.c{
+    font-size: 30px;
+    color: red;
+}
+

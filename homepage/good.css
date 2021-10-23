@@ -1,0 +1,29 @@
+.introduce {
+   text-align: center;
+   padding-top: 0.5em;
+   padding-bottom: 2em;
+   top: 25%;
+   width: 15%;
+   left: 75%;
+   display: block;
+   position: absolute;
+   background-color: gray();
+    border-style:solid;
+   border-width:3px;
+  }
+
+/*body{*/
+/*   text-align: justify;*/
+/*   background-color: white;*/
+/*}*/
+div.whole{
+   text-align: left;
+   padding-top: 0.5em;
+   width: 50%;
+   top: 25%;
+   left: 20%;
+   position: absolute;
+   background-color: white;
+
+}
+
