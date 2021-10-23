@@ -22,3 +22,11 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+
+Change in part 1
+=================
+1.Reset the background image and use a brown-yellow background
+2.Re-adjusted line spacing and word spacing
+3.Changed the display form of the picture to oval
+4.Change the font of the title abd header to Italian italics，the font of the paragraph is also bolded
+5.if the hyperlink has been visited, the color will be dark
